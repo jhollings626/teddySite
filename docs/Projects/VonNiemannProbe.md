@@ -207,7 +207,7 @@ INSERT PARAGRAPH ABOUT NOT CONDONING CHEATING
   <div class="chess-log"></div>
 </div>
 
-### Downloading & Configuring Stockfish
+### Downloading & Configuring Local Stockfish Installation
 
 First, I downloaded Stockfish and extracted it locally on my Windows PC. I used Version 15 in this project. A more current version can be downloaded from [stockfishchess.org](https://stockfishchess.org/download/) or use this [permanent download link](https://stockfishchess.org/files/stockfish_15_win_x64_avx2.zip) of the version that I used during development.
 
